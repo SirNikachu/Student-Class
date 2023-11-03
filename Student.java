@@ -40,7 +40,8 @@ public class Student
             this.email = email;
         }
 
-        public String getMajor() {
+        public String getMajor() 
+        {
             return major;
         }
 
